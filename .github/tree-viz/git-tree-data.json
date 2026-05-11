@@ -3,10 +3,54 @@
     "repository": "NG-S4",
     "current_branch": "main",
     "repo_url": "https://github.com/XAOSTECH/NG-S4",
-    "generated": "2026-04-27T01:57:47Z",
+    "generated": "2026-05-11T02:13:13Z",
     "max_commits": 500
   },
   "commits": [
+  {
+    "sha": "5878a2c481a1e52a61fae20ae12ae3803e4570d4",
+    "short": "5878a2c",
+    "parents": "a1c9190037447f01dec28a9cc36706619ace1590",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-05-04T02:01:14Z",
+    "timestamp": 1777860074,
+    "subject": "chore: update CHANGELOG for v0.1.0 (re-release)",
+    "refs": "HEAD -> main, tag: v0.1.0, tag: latest, origin/main"
+  },
+  {
+    "sha": "a1c9190037447f01dec28a9cc36706619ace1590",
+    "short": "a1c9190",
+    "parents": "297401c84d0c0d5b72ff7224e6b777fb869b97ce 7b0e36f55463b46902d24bf7ea55e7a0a5ec2d7a",
+    "author": "github-actions[bot]",
+    "email": "41898282+github-actions[bot]@users.noreply.github.com",
+    "date": "2026-05-01T04:06:46Z",
+    "timestamp": 1777608406,
+    "subject": "Merge pull request #5 from XAOSTECH/anglicise/20260501-040625",
+    "refs": ""
+  },
+  {
+    "sha": "7b0e36f55463b46902d24bf7ea55e7a0a5ec2d7a",
+    "short": "7b0e36f",
+    "parents": "297401c84d0c0d5b72ff7224e6b777fb869b97ce",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-05-01T04:06:25Z",
+    "timestamp": 1777608385,
+    "subject": "chore: convert American spellings to British English",
+    "refs": ""
+  },
+  {
+    "sha": "297401c84d0c0d5b72ff7224e6b777fb869b97ce",
+    "short": "297401c",
+    "parents": "b8fd584b671f2516ffa2865a0453f93e43473f3c",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-04-27T01:57:48Z",
+    "timestamp": 1777255068,
+    "subject": "chore: update git tree visualisation",
+    "refs": ""
+  },
   {
     "sha": "b8fd584b671f2516ffa2865a0453f93e43473f3c",
     "short": "b8fd584",
@@ -16,7 +60,7 @@
     "date": "2026-04-20T01:52:57Z",
     "timestamp": 1776649977,
     "subject": "chore: update git tree visualisation",
-    "refs": "HEAD -> main, origin/main"
+    "refs": ""
   },
   {
     "sha": "cb8e1063afc5715d081d12b65a455abaceb8ffc2",
@@ -38,7 +82,7 @@
     "date": "2026-04-06T01:29:59Z",
     "timestamp": 1775438999,
     "subject": "chore: update CHANGELOG for v0.1.0 (re-release)",
-    "refs": "tag: v0.1.0, tag: latest"
+    "refs": ""
   },
   {
     "sha": "d3637a503e2a19ca0fb68533950e667d473adef2",
@@ -229,10 +273,10 @@
   }
 ],
   "branches": [
-  {"name":"b8fd584b671f2516ffa2865a0453f93e43473f3c chore: update git tree visualisation","sha":"*","current":false,"merged":false}
+  {"name":"5878a2c481a1e52a61fae20ae12ae3803e4570d4 chore: update CHANGELOG for v0.1.0 (re-release)","sha":"*","current":false,"merged":false}
 ],
   "tags": [
-  {"name":"latest","sha":"9ad2482dac8e04707c8a4427e735522460893674"},
-  {"name":"v0.1.0","sha":"6048aeceeca94518409eb69f3906ff12e630b2ed"}
+  {"name":"latest","sha":"89e912612770a814826830b5ac755e03e21b7613"},
+  {"name":"v0.1.0","sha":"df24c2a34d43ca87d45a5249684871e3776956b4"}
 ]
 }
